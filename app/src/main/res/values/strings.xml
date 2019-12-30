@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mvvm First Tutorial for Android</string>
+    <string name="login">Login</string>
+</resources>
